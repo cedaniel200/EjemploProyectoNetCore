@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  consoleapp1:
+    image: consoleapp1
+    build:
+      context: ./ConsoleApp1
+      dockerfile: Dockerfile

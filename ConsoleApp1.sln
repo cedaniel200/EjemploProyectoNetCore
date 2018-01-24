@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FC2A6F4A-46FB-4F56-AC86-C34F6AC809D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{421E4B48-E14A-4DB7-A054-BA76C6EF3958}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8FF77611-064C-4C14-A4BD-22A45709AF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2A6F4A-46FB-4F56-AC86-C34F6AC809D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2A6F4A-46FB-4F56-AC86-C34F6AC809D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2A6F4A-46FB-4F56-AC86-C34F6AC809D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2A6F4A-46FB-4F56-AC86-C34F6AC809D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421E4B48-E14A-4DB7-A054-BA76C6EF3958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E4B48-E14A-4DB7-A054-BA76C6EF3958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E4B48-E14A-4DB7-A054-BA76C6EF3958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E4B48-E14A-4DB7-A054-BA76C6EF3958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF77611-064C-4C14-A4BD-22A45709AF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF77611-064C-4C14-A4BD-22A45709AF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF77611-064C-4C14-A4BD-22A45709AF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF77611-064C-4C14-A4BD-22A45709AF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7130C9A6-8CAD-4B5F-8DF4-1BB076BBA8F7}
+	EndGlobalSection
+EndGlobal
